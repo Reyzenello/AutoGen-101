@@ -139,3 +139,6 @@ I feel that, Joe! Sometimes that child's pose can be all too tempting, especiall
  'dog" and "warrior pose". I\'m here for a relaxing stretch, not a battle '
  'scene enactment!')
 
+![image](https://github.com/Reyzenello/AutoGen-101/assets/43668563/1c6a3d3f-ce72-4780-b68e-5913f96b7d85)
+
+
